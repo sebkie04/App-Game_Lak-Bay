@@ -16,7 +16,7 @@ Specifically, it aims to:
 - Let users familiarize characters of Baybayin and learn how to form a word or phrase.
 
 ## Contributors
-The following people are the contributor of Lak-Bay:
+The following people are the contributors of Lak-Bay:
 
 Arianne Nicole A. Cinco
 
