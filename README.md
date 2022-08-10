@@ -4,7 +4,16 @@ Lak-Bay is a historical, adventure, RPG, educational, side-scrolling game that f
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Baybayin is resurfacing and gaining popularity today; it shows the potential that it can be used as a writing system by the Filipinos. The problem is, not everyone knows and understand the script.
+
+To develop a Baybayin game-based learning application.
+Specifically, it aims to:
+
+- Introduce and promote the Baybayin script and its history.
+
+- Contribute to the lack of Baybayin learning resources.
+
+- Let users familiarize characters of Baybayin and learn how to form a word or phrase.
 
 ## Contributors
 The following people are the contributor of Lak-Bay:
