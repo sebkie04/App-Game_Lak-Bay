@@ -1,6 +1,6 @@
 ## Synopsis
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+Lak-Bay is a historical, adventure, RPG, educational, side-scrolling game that features Baybayin Script. Play as Gab, a regular student working on his assignment when suddenly he is thrown back in time. In order for him to go back to the present, you must help him uncover and understand the secrets of the past to pave a way back from when he came.
 
 ## Motivation
 
