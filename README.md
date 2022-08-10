@@ -6,7 +6,7 @@ Lak-Bay is a historical, adventure, RPG, educational, side-scrolling game that f
 
 Baybayin is resurfacing and gaining popularity today; it shows the potential that it can be used as a writing system by the Filipinos. The problem is, not everyone knows and understand the script.
 
-To develop a Baybayin game-based learning application.
+The objectives is to develop a Baybayin game-based learning application.
 Specifically, it aims to:
 
 - Introduce and promote the Baybayin script and its history.
