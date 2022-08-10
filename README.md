@@ -10,13 +10,9 @@ A short description of the motivation behind the creation and maintenance of the
 The following people are the contributor of Lak-Bay:
 
 Arianne Nicole A. Cinco
-
 Christine M. Deles
-
 Marissa Grace M. Linganay
-
 Inceasa Bliss B. Perez
-
 Milanie J. Villalobos
 
 ## License
