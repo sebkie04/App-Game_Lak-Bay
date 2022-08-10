@@ -7,8 +7,12 @@ At the top of the file there should be a short introduction and/ or overview tha
 A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
 
 ## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+The following people are the contributor of Lak-Bay:
+Arianne Nicole A. Cinco
+Christine M. Deles
+Marissa Grace M. Linganay
+Inceasa Bliss B. Perez
+Milanie J. Villalobos
 
 ## License
 
