@@ -27,7 +27,3 @@ Marissa Grace M. Linganay
 Inceasa Bliss B. Perez
 
 Milanie J. Villalobos
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
